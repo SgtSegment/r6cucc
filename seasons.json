@@ -2,61 +2,85 @@
 	"blackice": {
 		"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%201/blackice.jpg",
 		"md5": "b40aaf52a28cc70eaaf506b6ef2e1d3f",
+		"manifestWW": "5188997148801516344",
+		"manifestContent": "7932785808040895147",
 		"description": "black ice test"
 	},
 	"dustline": {
 		"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%201/dustline.jpg",
 		"md5": "c58f7284c056c72308821f68950c6848",
-		"description": ""
-	},
-	"redcrow": {
-		"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%201/redcrow.jpg",
-		"md5": "53adf2f6b6de0170b053e9c9e3d78828",
+		"manifestWW": "2303064029242396590",
+		"manifestContent": "2206497318678061176",
 		"description": ""
 	},
 	"skullrain": {
 		"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%201/skullrain.jpg",
 		"md5": "6121c46289f39bf49b671658ee430ab1",
+		"manifestWW": "5819137024728546741",
+		"manifestContent": "5851804596427790505",
 		"description": ""
 	},
-	"bloodorchid": {
-		"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%202/bloodorchid.jpg",
-		"md5": "f54a7af83c985a68786c37884826dfdd",
-		"description": ""
-	},
-	"health": {
-		"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%202/health.jpg",
-		"md5": "2aaa336bf78e5e6f522583e41c36c743",
+	"redcrow": {
+		"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%201/redcrow.jpg",
+		"md5": "53adf2f6b6de0170b053e9c9e3d78828",
+		"manifestWW": "3576607363557872807",
+		"manifestContent": "8569920171217002292",
 		"description": ""
 	},
 	"velvetshell": {
 		"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%202/velvetshell.jpg",
 		"md5": "45b563c7a5a8c371f3323620c7035302",
+		"manifestWW": "2248734317261478192",
+		"manifestContent": "8006071763917433748",
+		"description": ""
+	},
+	"health": {
+		"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%202/health.jpg",
+		"md5": "2aaa336bf78e5e6f522583e41c36c743",
+		"manifestWW": "5875987479498297665",
+		"manifestContent": "708773000306432190",
+		"description": ""
+	},
+	"bloodorchid": {
+		"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%202/bloodorchid.jpg",
+		"md5": "f54a7af83c985a68786c37884826dfdd",
+		"manifestWW": "6708129824495912434",
+		"manifestContent": "1613631671988840841",
 		"description": ""
 	},
 	"whitenoise": {
 		"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%202/whitenoise.jpg",
 		"md5": "ec6994a2de81d00e558e29fe77fadc4b",
+		"manifestWW": "8748734086032257441",
+		"manifestContent": "4221297486420648079",
 		"description": ""
 	},
 	"chimera": {
 		"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%203/chimera.jpg",
 		"md5": "ec7527ed689e6deeaa6f0498c5a92e9d",
-		"description": ""
-	},
-	"grimsky": {
-		"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%203/grimsky.jpg",
-		"md5": "20d842b43837b7ed4c9273e53ce44468",
+		"manifestWW": "5071357104726974256",
+		"manifestContent": "4701787239566783972",
 		"description": ""
 	},
 	"parabellum": {
 		"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%203/parabellum.jpg",
 		"md5": "4483b8207994ec6324a1751a6d9b3ba4",
+		"manifestWW": "6507886921175556869",
+		"manifestContent": "8765715607275074515",
+		"description": ""
+	},
+	"grimsky": {
+		"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%203/grimsky.jpg",
+		"md5": "20d842b43837b7ed4c9273e53ce44468",
+		"manifestWW": "5562094852451837435",
+		"manifestContent": "7781202564071310413",
 		"description": ""
 	},
 	"windbastion": {
 		"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%203/windbastion.jpg",
 		"md5": "1855fb424ee76241d8d5388a1656c314",
+		"manifestWW": "6502258854032233436",
+		"manifestContent": "7659555540733025386",
 		"description": ""
 	}
 }
