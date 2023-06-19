@@ -83,4 +83,130 @@
 		"manifestContent": "7659555540733025386",
 		"description": "Operation Wind Bastion is the 4t season of the 3rd year of Rainbow Six Siege. [Event: Road to S.I. 2019]\r\nMain additions:\r\n- Moroccan operators Nomad and Kaid\r\n- New map Fortress\r\n- Consulate map buff"
 	}
+	"burnthorizon": {
+		"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%204/burnthorizon.jpg",
+		"md5": "",
+		"manifestWW": "",
+		"manifestContent": "",
+		"description": "Operation Burnt Horizon is the 1st season of the 4th year of Rainbow Six Siege. [Event: Rainbow is Magic v1]\r\nMain additions:\r\n- Australian operators Gridlock and Mozzie\r\n- New map Outback\r\n- Removed R4-C ACOG\r\n- Advanced Gadget Deployment"
+	},
+	"phantomsight": {
+		"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%204/phantomsight.jpg",
+		"md5": "",
+		"manifestWW": "",
+		"manifestContent": "",
+		"description": "Operation Phantom Sight is the 2nd season of the 4th year of Rainbow Six Siege. [Event: Showdown]\r\nMain additions:\r\n- Danish operator Nokk and American operator Warden\r\n- Kafe map rework\r\n- Glaz rework\r\n- Removed the possibilites for Draws in Bomb/Secure Area/Hostage\r\n- Reduced menu loading time"
+	},
+	"emberrise": {
+		"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%204/emberrise.jpg",
+		"md5": "",
+		"manifestWW": "",
+		"manifestContent": "",
+		"description": "Operation Ember Rise is the 3rd season of the 4th year of Rainbow Six Siege. [Event: Doktor's Curse v1]\r\nMain additions:\r\n- Peruvian operator Amaru and Mexican operator Goyo\r\n- Kanal map rework\r\n- New operators menu\r\n- Reworked Deployabled Shield secondary gadget\r\n- Bombers and C4/Barbed wire removed from Terrorists Hunt\r\n- Improved shotgun destruction"
+	},
+	"shiftingtides": {
+		"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%204/shiftingtides.jpg",
+		"md5": "",
+		"manifestWW": "",
+		"manifestContent": "",
+		"description": "Operation Shifting Tides is the 4th season of the 4th year of Rainbow Six Siege. [Event: Road to S.I. 2020]\r\nMain additions:\r\n- Indian operator Kali and Kenyan operator Wamai\r\n- Theme Park map rework\r\n- Limb penetration system\r\n- New Mira and Hibana voice actors"
+	},
+	"voidedge": {
+		"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%205/voidedge.jpg",
+		"md5": "",
+		"manifestWW": "",
+		"manifestContent": "",
+		"description": "Operation Void Edge is the 1st season of the 5th year of Rainbow Six Siege. [Event: The Grand Larceny]\r\nMain additions:\r\n- Dutch operator Iana and Jordanian operator Oryx\r\n- Oregon map rework\r\n- Barricade debris rework\r\n- Attacker drones spawns are no longer random\r\n- updated main menu"
+	},
+	"steelwave": {
+		"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%205/steelwave.jpg",
+		"md5": "",
+		"manifestWW": "",
+		"manifestContent": "",
+		"description": "Operation Steel Wave is the 2nd season of the 5th year of Rainbow Six Siege. [Event: Mute Protocol v1]\r\nMain additions:\r\n- Norwegian operator Ace and South African operator Melusi\r\n- House map rework\r\n- Proximity Alarm secondary gadget"
+	},
+	"shadowlegacy": {
+		"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%205/shadowlegacy.jpg",
+		"md5": "",
+		"manifestWW": "",
+		"manifestContent": "",
+		"description": "Operation Shadow Legacy is the 3rd season of the 5th year of Rainbow Six Siege. [Event: Sugar Fright]\r\nMain additions:\r\n- American operator Zero\r\n- Chalet map rework\r\n- Scope 1.5x, Scope 2.0x, Scope 3.0x, new holographic and new red dot sights\r\n- Ping 2.0\r\n- Hard Breach Charge secondary gadget\r\n- reticle color customization\r\n- reinforcement pool"
+	},
+	"neondawn": {
+		"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%205/neondawn.jpg",
+		"md5": "",
+		"manifestWW": "",
+		"manifestContent": "",
+		"description": "Operation Neon Dawn is the 4th season of the 5th year of Rainbow Six Siege. [Event: Road to S.I. 2021]\r\nMain additions:\r\n- Thai operator Aruni\r\n- Skyscraper map rework\r\n- runout timer decreased to 1s (from 2s)\r\n- changed defuser plant animation\r\n- faster reinforcement animaton (reduced to 4.5s from 5.5s)"
+	},
+	"crimsonheist": {
+		"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%206/crimsonheist.jpg",
+		"md5": "",
+		"manifestWW": "",
+		"manifestContent": "",
+		"description": "Crimson Heist is the 1st season of the 6th year of Rainbow Six Siege. [Event: Apocalypse and Rainbow is Magic v2]\r\nMain additions:\r\n- Argentinian operator Flores\r\n- Border map rework\r\n- GONNE-6\r\n- Match Replay"
+	},
+	"northstar": {
+		"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%206/northstar.jpg",
+		"md5": "",
+		"manifestWW": "",
+		"manifestContent": "",
+		"description": "North Star is the 2nd season of the 6th year of Rainbow Six Siege. [Event: Containment]\r\nMain additions:\r\n- Native american operator Thunderbird\r\n- Favela map rework\r\n- Melusi rework\r\n- Shattered glass mechanic for Mira and Maestro\r\n- removal of dead bodies\r\n- updated operator icons\r\n- updated scoreboard\r\n- removed bulletholes"
+	},
+	"crystalguard": {
+		"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%206/crystalguard.jpg",
+		"md5": "",
+		"manifestWW": "",
+		"manifestContent": "",
+		"description": "Crystal Guard is the 3rd season of the 6th year of Rainbow Six Siege. [Event: Doktor's Curse v2 and Showdown]\r\nMain additions:\r\n- Croatian operator Osa\r\n- Bank, Clubhouse and Consulate mini-reworks\r\n- Armor replaced by HP\r\n- Opponents rim lighting\r\n- updated flashes"
+	},
+	"highcalibre": {
+		"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%206/highcalibre.jpg",
+		"md5": "",
+		"manifestWW": "",
+		"manifestContent": "",
+		"description": "High Calibre is the 4th season of the 6th year of Rainbow Six Siege. [Event: Road to S.I. 2022]\r\nMain additions:\r\n- Irish operator Thorn\r\n- Outback map rework\r\n- Updated HUD\r\n- Team colors\r\n- Full Elite customization"
+	},
+	"demonveil": {
+		"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%207/demonveil.jpg",
+		"md5": "",
+		"manifestWW": "",
+		"manifestContent": "",
+		"description": "Operation Demon Veil is the 1st season of the 7th year of Rainbow Six Siege. [Event: Rengoku v1]\r\nMain additions:\r\n- Japanese operator Azami\r\n- New map Emerald Plains\r\n- Deathmatch mode\r\n- Attacker repick\r\n- Universal 1x sights\r\n- Goyo rework"
+	},
+	"vectorglare": {
+		"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%207/vectorglare.jpg",
+		"md5": "",
+		"manifestWW": "",
+		"manifestContent": "",
+		"description": "Operation Vector Glare is the 2nd season of the 7th year of Rainbow Six Siege. [Event: Mute Protocol v2]\r\nMain additions:\r\n- Belgian operator Sens\r\n- New TDM map Close Quarter\r\n- Shooting Range\r\n- Operator Guides\r\n- Screen Shake intensity option\r\n- Third secondary weapon slot"
+	},
+	"brutalswarm": {
+		"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%207/brutalswarm.jpg",
+		"md5": "",
+		"manifestWW": "",
+		"manifestContent": "",
+		"description": "Operation Brutal Swarm is the 3rd season of the 7th year of Rainbow Six Siege. [Event: Doktor Curse v3]\r\nMain additions:\r\n- singaporean operator Grim\r\n- New map Stadium Bravo\r\n- Impact EMPs secondary gadget\r\n- Weapon recoil rework"
+	},
+	"solarraid": {
+		"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%203/solarraid.jpg",
+		"md5": "",
+		"manifestWW": "",
+		"manifestContent": "Operation Solar Raid is the 4th season of the 7th year of Rainbow Six Siege. [Event: Snowball Fight v2]\r\nMain additions:\r\n- Colombian operator Solis\r\n- New map Nighthaven Labs\r\n- Team colors colored gadgets\r\n- No friendly fire in the preparation phase\r\n- Standardization of the moving speed while ADS\r\n- AMD FidelityFX Super Resolution (FSR) 1.0 [Vulkan only]",
+		"description": ""
+	},
+	"commandingforce": {
+		"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%208/commandingforce.jpg",
+		"md5": "",
+		"manifestWW": "",
+		"manifestContent": "",
+		"description": "Operation Commanding Force is the 1st season of the 8th year of Rainbow Six Siege. [Event: Rainbow is Magic v3]\r\nMain additions:\r\n- Brazilian operator Brava\r\n- Reload rework\r\n- Zero rework\r\n- Updated main menu"
+	},
+	"dreadfactor": {
+		"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%208/dreadfactor.jpg",
+		"md5": "",
+		"manifestWW": "",
+		"manifestContent": "",
+		"description": "Operation Dread Factor is the 2nd season of the 8th year of Rainbow Six Siege. [Event: Rengoku v2]\r\nMain additions:\r\n- Swedish operator Fenrir\r\n- Consulate map rework\r\n- Enhanced Shooting Range\r\n- Observation Blocker secondary gadget\r\n- Free for All gamemode\r\n- Freecam in Match Replay"
+	}
 }
