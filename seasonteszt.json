@@ -62,6 +62,16 @@
 			"manifest4K": "7497579858536910279",
 			"description": "Operation Health is the 2nd season of the 2nd year of Rainbow Six Siege.\r\nMain additions:\r\n- Updated Pre- and Post-Match Squad Flow"
 		},
+		"bloodorchid": {
+			"name": "Y2S3_BloodOrchid",
+			"nameShort": "bloodorchid",
+			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%202/bloodorchid.jpg",
+			"md5": "f54a7af83c985a68786c37884826dfdd",
+			"manifestWW": "6708129824495912434",
+			"manifestContent": "1613631671988840841",
+			"manifest4K": "6420469519659049757",
+			"description": "Operation Blood Orchid is the 3rd season of the 2nd year of Rainbow Six Siege.\r\nMain additions:\r\n- Hong Kong operators Ying and Lesion and polish operator Ela\r\n- New map Theme Park\r\n- Attackers can now use both their drones at once\r\n- MP7 and 416-C ACOG removed"
+		},
 		"whitenoise": {
 			"name": "Y2S4_WhiteNoise",
 			"nameShort": "whitenoise",
