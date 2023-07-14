@@ -2,6 +2,7 @@
 	"Year 1": [{
 		"blackice": {
 			"name": "Y1S1_BlackIce",
+			"nameShort": "blackice",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%201/blackice.jpg",
 			"md5": "b40aaf52a28cc70eaaf506b6ef2e1d3f",
 			"manifestWW": "5188997148801516344",
@@ -11,6 +12,7 @@
 		},
 		"dustline": {
 			"name": "Y1S2_DustLine",
+			"nameShort": "dustline",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%201/dustline.jpg",
 			"md5": "c58f7284c056c72308821f68950c6848",
 			"manifestWW": "2303064029242396590",
@@ -20,6 +22,7 @@
 		},
 		"skullrain": {
 			"name": "Y1S3_SkullRain",
+			"nameShort": "skullrain",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%201/skullrain.jpg",
 			"md5": "6121c46289f39bf49b671658ee430ab1",
 			"manifestWW": "5819137024728546741",
@@ -29,6 +32,7 @@
 		},
 		"redcrow": {
 			"name": "Y1S4_RedCrow",
+			"nameShort": "redcrow",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%201/redcrow.jpg",
 			"md5": "53adf2f6b6de0170b053e9c9e3d78828",
 			"manifestWW": "3576607363557872807",
@@ -40,6 +44,7 @@
 	"Year 2": [{
 		"velvetshell": {
 			"name": "Y2S1_VelvetShell",
+			"nameShort": "velvetshell",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%202/velvetshell.jpg",
 			"md5": "45b563c7a5a8c371f3323620c7035302",
 			"manifestWW": "2248734317261478192",
@@ -49,6 +54,7 @@
 		},
 		"health": {
 			"name": "Y2S2_Health",
+			"nameShort": "health",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%202/health.jpg",
 			"md5": "2aaa336bf78e5e6f522583e41c36c743",
 			"manifestWW": "5875987479498297665",
@@ -58,6 +64,7 @@
 		},
 		"bloodorchid": {
 			"name": "Y2S3_BloodOrchid",
+			"nameShort": "bloodorchid",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%202/bloodorchid.jpg",
 			"md5": "f54a7af83c985a68786c37884826dfdd",
 			"manifestWW": "6708129824495912434",
@@ -67,6 +74,7 @@
 		},
 		"whitenoise": {
 			"name": "Y2S4_WhiteNoise",
+			"nameShort": "whitenoise",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%202/whitenoise.jpg",
 			"md5": "ec6994a2de81d00e558e29fe77fadc4b",
 			"manifestWW": "8748734086032257441",
@@ -78,6 +86,7 @@
 	"Year 3": [{
 		"chimera": {
 			"name": "Y3S1_Chimera",
+			"nameShort": "chimera",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%203/chimera.jpg",
 			"md5": "ec7527ed689e6deeaa6f0498c5a92e9d",
 			"manifestWW": "5071357104726974256",
@@ -87,6 +96,7 @@
 		},
 		"parabellum": {
 			"name": "Y3S2_ParaBellum",
+			"nameShort": "parabellum",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%203/parabellum.jpg",
 			"md5": "4483b8207994ec6324a1751a6d9b3ba4",
 			"manifestWW": "6507886921175556869",
@@ -96,6 +106,7 @@
 		},
 		"grimsky": {
 			"name": "Y3S3_GrimSky",
+			"nameShort": "grimsky",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%203/grimsky.jpg",
 			"md5": "20d842b43837b7ed4c9273e53ce44468",
 			"manifestWW": "5562094852451837435",
@@ -105,6 +116,7 @@
 		},
 		"windbastion": {
 			"name": "Y3S4_WindBastion",
+			"nameShort": "windbastion",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%203/windbastion.jpg",
 			"md5": "1855fb424ee76241d8d5388a1656c314",
 			"manifestWW": "6502258854032233436",
@@ -116,6 +128,7 @@
 	"Year 4": [{
 		"burnthorizon": {
 			"name": "Y4S1_BurntHorizon",
+			"nameShort": "burnthorizon",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%204/burnthorizon.jpg",
 			"md5": "82b9e978463a82293543abf8e15c4460",
 			"manifestWW": "8356277316976403078",
@@ -125,6 +138,7 @@
 		},
 		"phantomsight": {
 			"name": "Y4S2_PhantomSight",
+			"nameShort": "phantomsight",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%204/phantomsight.jpg",
 			"md5": "7856b7824f624a601ccc57745af034fe",
 			"manifestWW": "693082837425613508",
@@ -134,6 +148,7 @@
 		},
 		"emberrise": {
 			"name": "Y4S3_EmberRise",
+			"nameShort": "emberrise",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%204/emberrise.jpg",
 			"md5": "7856b7824f624a601ccc57745af034fe",
 			"manifestWW": "3546781236735558235",
@@ -143,6 +158,7 @@
 		},
 		"shiftingtides": {
 			"name": "Y4S4_ShiftingTides",
+			"nameShort": "shiftingtides",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%204/shiftingtides.jpg",
 			"md5": "c62d26d47f03cfa639dcf489b275b11d",
 			"manifestWW": "299124516841461614",
@@ -154,6 +170,7 @@
 	"Year 5": [{
 		"voidedge": {
 			"name": "Y5S1_VoidEdge",
+			"nameShort": "voidedge",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%205/voidedge.jpg",
 			"md5": "06d99615006e69f6f37763e881f48189",
 			"manifestWW": "4736360397583523381",
@@ -163,6 +180,7 @@
 		},
 		"steelwave": {
 			"name": "Y5S2_SteelWave",
+			"nameShort": "steelwave",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%205/steelwave.jpg",
 			"md5": "e56ae68fad7b5e440f801da3572df238",
 			"manifestWW": "4367817844736324940",
@@ -172,6 +190,7 @@
 		},
 		"shadowlegacy": {
 			"name": "Y5S3_ShadowLegacy",
+			"nameShort": "shadowlegacy",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%205/shadowlegacy.jpg",
 			"md5": "fbffaef3d94427312442dd5e27b25668",
 			"manifestWW": "85893637567200342",
@@ -181,6 +200,7 @@
 		},
 		"neondawn": {
 			"name": "Y5S4_NeonDawn",
+			"nameShort": "neondawn",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%205/neondawn.jpg",
 			"md5": "a4ef6edb3b34768084bb3d53bd0326d9",
 			"manifestWW": "4713320084981112320",
@@ -192,6 +212,7 @@
 	"Year 6": [{
 		"crimsonheist": {
 			"name": "Y6S1_CrimsonHeist",
+			"nameShort": "crimsonheist",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%206/crimsonheist.jpg",
 			"md5": "e9acfd63562c3a955f83ac525932418a",
 			"manifestWW": "7890853311380514304",
@@ -201,6 +222,7 @@
 		},
 		"northstar": {
 			"name": "Y6S2_NorthStar",
+			"nameShort": "northstar",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%206/northstar.jpg",
 			"md5": "a2178c1384395429c2f4792bcbb42cd8",
 			"manifestWW": "8733653062998518164",
@@ -210,6 +232,7 @@
 		},
 		"crystalguard": {
 			"name": "Y6S3_CrystalGuard",
+			"nameShort": "crystalguard",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%206/crystalguard.jpg",
 			"md5": "d6a7e542c0cac9e8d61721e043129d26",
 			"manifestWW": "4859695099882698284",
@@ -219,6 +242,7 @@
 		},
 		"highcalibre": {
 			"name": "Y6S4_HighCalibre",
+			"nameShort": "highcalibre",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%206/highcalibre.jpg",
 			"md5": "e0761cdf645bdba142982adaf4618f5d",
 			"manifestWW": "2637055726475611418",
@@ -230,6 +254,7 @@
 	"Year 7": [{
 		"demonveil": {
 			"name": "Y7S1_DemonVeil",
+			"nameShort": "demonveil",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%207/demonveil.jpg",
 			"md5": "8d14435325c8af1cd420dad93d3b28ff",
 			"manifestWW": "8323869632165751287",
@@ -239,6 +264,7 @@
 		},
 		"vectorglare": {
 			"name": "Y7S2_VectorGlare",
+			"nameShort": "vectorglare",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%207/vectorglare.jpg",
 			"md5": "ba5f28de85239eaa2f75513c612921fd",
 			"manifestWW": "1363132201391540345",
@@ -248,6 +274,7 @@
 		},
 		"brutalswarm": {
 			"name": "Y7S3_BrutalSwarm",
+			"nameShort": "brutalswarm",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%207/brutalswarm.jpg",
 			"md5": "5e85ede2b3019faefe4eace86becdd40",
 			"manifestWW": "6425223567680952075",
@@ -257,6 +284,7 @@
 		},
 		"solarraid": {
 			"name": "Y7S4_SolarRaid",
+			"nameShort": "solarraid",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%207/solarraid.jpg",
 			"md5": "db4ed30a3628dfef67adbc75b6a04b36",
 			"manifestWW": "4466027729495813039",
@@ -268,6 +296,7 @@
 	"Year 8": [{
 		"commandingforce": {
 			"name": "Y8S1_CommandingForce",
+			"nameShort": "commandingforce",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%208/commandingforce.jpg",
 			"md5": "6286b27d220dbfee1485ce1f52acfa6c",
 			"manifestWW": "3275824905781062648",
@@ -277,6 +306,7 @@
 		},
 		"dreadfactor": {
 			"name": "Y8S2_DreadFactor",
+			"nameShort": "dreadfactor",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%208/dreadfactor.jpg",
 			"md5": "e454e842a0215f45840c9f2dbf3b9b22",
 			"manifestWW": "3050554908913191669",
