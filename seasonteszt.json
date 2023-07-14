@@ -10,7 +10,7 @@
 			"description": "Operation Black Ice is the 1st season of the 1st year of Rainbow Six Siege.\r\nMain additions:\r\n- Canadian operators Buck and Frost\r\n- New map Yatch"
 		},
 		"dustline": {
-			"name": "Y1S1_BlackIce",
+			"name": "Y1S2_DustLine",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%201/dustline.jpg",
 			"md5": "c58f7284c056c72308821f68950c6848",
 			"manifestWW": "2303064029242396590",
@@ -19,7 +19,7 @@
 			"description": "Operation Dust Line is the 2nd season of the 1st year of Rainbow Six Siege.\r\nMain additions:\r\n- American operators Blackbeard and Valkyrie\r\n- New map Border\r\n- Headgears\r\n- Loadout customization between rounds"
 		},
 		"skullrain": {
-			"name": "Y1S1_BlackIce",
+			"name": "Y1S3_SkullRain",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%201/skullrain.jpg",
 			"md5": "6121c46289f39bf49b671658ee430ab1",
 			"manifestWW": "5819137024728546741",
@@ -28,7 +28,7 @@
 			"description": "Operation Skull Rain is the 3rd season of the 1st year of Rainbow Six Siege.\r\nMain additions:\r\n- Brazilian operators Capitao and Caveira\r\n- New map Favela\r\n- Tactical Realism\r\n- Updated UI and HUD\r\n- Angled Grip\r\n- Claymore and Impact Grenades secondary gadgets"
 		},
 		"redcrow": {
-			"name": "Y1S1_BlackIce",
+			"name": "Y1S4_RedCrow",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%201/redcrow.jpg",
 			"md5": "53adf2f6b6de0170b053e9c9e3d78828",
 			"manifestWW": "3576607363557872807",
@@ -39,7 +39,7 @@
 	}],
 	"Year 2": [{
 		"velvetshell": {
-			"name": "Y1S1_BlackIce",
+			"name": "Y2S1_VelvetShell",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%202/velvetshell.jpg",
 			"md5": "45b563c7a5a8c371f3323620c7035302",
 			"manifestWW": "2248734317261478192",
@@ -48,7 +48,7 @@
 			"description": "Operation Velvet Shell is the 1st season of the 2nd year of Rainbow Six Siege.\r\nMain additions:\r\n- Spanish operators Jackal and Mira\r\n- New map Coastline\r\n- Updated main menu"
 		},
 		"health": {
-			"name": "Y1S1_BlackIce",
+			"name": "Y2S2_Health",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%202/health.jpg",
 			"md5": "2aaa336bf78e5e6f522583e41c36c743",
 			"manifestWW": "5875987479498297665",
@@ -57,7 +57,7 @@
 			"description": "Operation Health is the 2nd season of the 2nd year of Rainbow Six Siege.\r\nMain additions:\r\n- Updated Pre- and Post-Match Squad Flow"
 		},
 		"bloodorchid": {
-			"name": "Y1S1_BlackIce",
+			"name": "Y2S3_BloodOrchid",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%202/bloodorchid.jpg",
 			"md5": "f54a7af83c985a68786c37884826dfdd",
 			"manifestWW": "6708129824495912434",
@@ -66,7 +66,7 @@
 			"description": "Operation Blood Orchid is the 3rd season of the 2nd year of Rainbow Six Siege.\r\nMain additions:\r\n- Hong Kong operators Ying and Lesion and polish operator Ela\r\n- New map Theme Park\r\n- Attackers can now use both their drones at once\r\n- MP7 and 416-C ACOG removed"
 		},
 		"whitenoise": {
-			"name": "Y1S1_BlackIce",
+			"name": "Y2S4_WhiteNoise",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%202/whitenoise.jpg",
 			"md5": "ec6994a2de81d00e558e29fe77fadc4b",
 			"manifestWW": "8748734086032257441",
@@ -77,7 +77,7 @@
 	}],
 	"Year 3": [{
 		"chimera": {
-			"name": "Y1S1_BlackIce",
+			"name": "Y3S1_Chimera",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%203/chimera.jpg",
 			"md5": "ec7527ed689e6deeaa6f0498c5a92e9d",
 			"manifestWW": "5071357104726974256",
@@ -86,7 +86,7 @@
 			"description": "Operation Chimera is the 1st season of the 3rd year of Rainbow Six Siege. [Event: Outbreak]\r\nMain additions:\r\n- Russian operator Finka and French operator Lion"
 		},
 		"parabellum": {
-			"name": "Y1S1_BlackIce",
+			"name": "Y3S2_ParaBellum",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%203/parabellum.jpg",
 			"md5": "4483b8207994ec6324a1751a6d9b3ba4",
 			"manifestWW": "6507886921175556869",
@@ -95,7 +95,7 @@
 			"description": "Operation Parabellum is the 2nd season of the 3rd year of Rainbow Six Siege.\r\nMain additions:\r\n- Italian operators Alibi and Maestro\r\n- New map Villa\r\n- Clubhouse map buff\r\n- Bulletproof Camera secondary gadget\r\n- Pick & Ban\r\n- HUD update"
 		},
 		"grimsky": {
-			"name": "Y1S1_BlackIce",
+			"name": "Y3S3_GrimSky",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%203/grimsky.jpg",
 			"md5": "20d842b43837b7ed4c9273e53ce44468",
 			"manifestWW": "5562094852451837435",
@@ -104,7 +104,7 @@
 			"description": "Operation Grim Sky is the 3rd season of the 3rd year of Rainbow Six Siege. [Event: Mad House]\r\nMain additions:\r\n- American operator Maverick and British operator Clash\r\n- Hereford Base map rework\r\n- Recoil rework"
 		},
 		"windbastion": {
-			"name": "Y1S1_BlackIce",
+			"name": "Y3S4_WindBastion",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%203/windbastion.jpg",
 			"md5": "1855fb424ee76241d8d5388a1656c314",
 			"manifestWW": "6502258854032233436",
@@ -115,7 +115,7 @@
 	}],
 	"Year 4": [{
 		"burnthorizon": {
-			"name": "Y1S1_BlackIce",
+			"name": "Y4S1_BurntHorizon",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%204/burnthorizon.jpg",
 			"md5": "82b9e978463a82293543abf8e15c4460",
 			"manifestWW": "8356277316976403078",
@@ -124,7 +124,7 @@
 			"description": "Operation Burnt Horizon is the 1st season of the 4th year of Rainbow Six Siege. [Event: Rainbow is Magic v1]\r\nMain additions:\r\n- Australian operators Gridlock and Mozzie\r\n- New map Outback\r\n- Removed R4-C ACOG\r\n- Advanced Gadget Deployment"
 		},
 		"phantomsight": {
-			"name": "Y1S1_BlackIce",
+			"name": "Y4S2_PhantomSight",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%204/phantomsight.jpg",
 			"md5": "7856b7824f624a601ccc57745af034fe",
 			"manifestWW": "693082837425613508",
@@ -133,7 +133,7 @@
 			"description": "Operation Phantom Sight is the 2nd season of the 4th year of Rainbow Six Siege. [Event: Showdown]\r\nMain additions:\r\n- Danish operator Nokk and American operator Warden\r\n- Kafe map rework\r\n- Glaz rework\r\n- Removed the possibilites for Draws in Bomb/Secure Area/Hostage\r\n- Reduced menu loading time"
 		},
 		"emberrise": {
-			"name": "Y1S1_BlackIce",
+			"name": "Y4S3_EmberRise",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%204/emberrise.jpg",
 			"md5": "7856b7824f624a601ccc57745af034fe",
 			"manifestWW": "3546781236735558235",
@@ -142,7 +142,7 @@
 			"description": "Operation Ember Rise is the 3rd season of the 4th year of Rainbow Six Siege. [Event: Doktor's Curse v1]\r\nMain additions:\r\n- Peruvian operator Amaru and Mexican operator Goyo\r\n- Kanal map rework\r\n- New operators menu\r\n- Reworked Deployabled Shield secondary gadget\r\n- Bombers and C4/Barbed wire removed from Terrorists Hunt\r\n- Improved shotgun destruction"
 		},
 		"shiftingtides": {
-			"name": "Y1S1_BlackIce",
+			"name": "Y4S4_ShiftingTides",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%204/shiftingtides.jpg",
 			"md5": "c62d26d47f03cfa639dcf489b275b11d",
 			"manifestWW": "299124516841461614",
@@ -153,7 +153,7 @@
 	}],
 	"Year 5": [{
 		"voidedge": {
-			"name": "Y1S1_BlackIce",
+			"name": "Y5S1_VoidEdge",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%205/voidedge.jpg",
 			"md5": "06d99615006e69f6f37763e881f48189",
 			"manifestWW": "4736360397583523381",
@@ -162,7 +162,7 @@
 			"description": "Operation Void Edge is the 1st season of the 5th year of Rainbow Six Siege. [Event: The Grand Larceny]\r\nMain additions:\r\n- Dutch operator Iana and Jordanian operator Oryx\r\n- Oregon map rework\r\n- Barricade debris rework\r\n- Attacker drones spawns are no longer random\r\n- updated main menu"
 		},
 		"steelwave": {
-			"name": "Y1S1_BlackIce",
+			"name": "Y5S2_SteelWave",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%205/steelwave.jpg",
 			"md5": "e56ae68fad7b5e440f801da3572df238",
 			"manifestWW": "4367817844736324940",
@@ -171,7 +171,7 @@
 			"description": "Operation Steel Wave is the 2nd season of the 5th year of Rainbow Six Siege. [Event: Mute Protocol v1]\r\nMain additions:\r\n- Norwegian operator Ace and South African operator Melusi\r\n- House map rework\r\n- Proximity Alarm secondary gadget"
 		},
 		"shadowlegacy": {
-			"name": "Y1S1_BlackIce",
+			"name": "Y5S3_ShadowLegacy",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%205/shadowlegacy.jpg",
 			"md5": "fbffaef3d94427312442dd5e27b25668",
 			"manifestWW": "85893637567200342",
@@ -180,7 +180,7 @@
 			"description": "Operation Shadow Legacy is the 3rd season of the 5th year of Rainbow Six Siege. [Event: Sugar Fright]\r\nMain additions:\r\n- American operator Zero\r\n- Chalet map rework\r\n- Scope 1.5x, Scope 2.0x, Scope 3.0x, new holographic and new red dot sights\r\n- Ping 2.0\r\n- Hard Breach Charge secondary gadget\r\n- reticle color customization\r\n- reinforcement pool"
 		},
 		"neondawn": {
-			"name": "Y1S1_BlackIce",
+			"name": "Y5S4_NeonDawn",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%205/neondawn.jpg",
 			"md5": "a4ef6edb3b34768084bb3d53bd0326d9",
 			"manifestWW": "4713320084981112320",
@@ -191,7 +191,7 @@
 	}],
 	"Year 6": [{
 		"crimsonheist": {
-			"name": "Y1S1_BlackIce",
+			"name": "Y6S1_CrimsonHeist",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%206/crimsonheist.jpg",
 			"md5": "e9acfd63562c3a955f83ac525932418a",
 			"manifestWW": "7890853311380514304",
@@ -200,7 +200,7 @@
 			"description": "Crimson Heist is the 1st season of the 6th year of Rainbow Six Siege. [Event: Apocalypse and Rainbow is Magic v2]\r\nMain additions:\r\n- Argentinian operator Flores\r\n- Border map rework\r\n- GONNE-6\r\n- Match Replay"
 		},
 		"northstar": {
-			"name": "Y1S1_BlackIce",
+			"name": "Y6S2_NorthStar",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%206/northstar.jpg",
 			"md5": "a2178c1384395429c2f4792bcbb42cd8",
 			"manifestWW": "8733653062998518164",
@@ -209,7 +209,7 @@
 			"description": "North Star is the 2nd season of the 6th year of Rainbow Six Siege. [Event: Containment]\r\nMain additions:\r\n- Native american operator Thunderbird\r\n- Favela map rework\r\n- Melusi rework\r\n- Shattered glass mechanic for Mira and Maestro\r\n- removal of dead bodies\r\n- updated operator icons\r\n- updated scoreboard\r\n- removed bulletholes"
 		},
 		"crystalguard": {
-			"name": "Y1S1_BlackIce",
+			"name": "Y6S3_CrystalGuard",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%206/crystalguard.jpg",
 			"md5": "d6a7e542c0cac9e8d61721e043129d26",
 			"manifestWW": "4859695099882698284",
@@ -218,7 +218,7 @@
 			"description": "Crystal Guard is the 3rd season of the 6th year of Rainbow Six Siege. [Event: Doktor's Curse v2 and Showdown]\r\nMain additions:\r\n- Croatian operator Osa\r\n- Bank, Clubhouse and Consulate mini-reworks\r\n- Armor replaced by HP\r\n- Opponents rim lighting\r\n- updated flashes"
 		},
 		"highcalibre": {
-			"name": "Y1S1_BlackIce",
+			"name": "Y6S4_HighCalibre",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%206/highcalibre.jpg",
 			"md5": "e0761cdf645bdba142982adaf4618f5d",
 			"manifestWW": "2637055726475611418",
@@ -229,7 +229,7 @@
 	}],
 	"Year 7": [{
 		"demonveil": {
-			"name": "Y1S1_BlackIce",
+			"name": "Y7S1_DemonVeil",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%207/demonveil.jpg",
 			"md5": "8d14435325c8af1cd420dad93d3b28ff",
 			"manifestWW": "8323869632165751287",
@@ -238,7 +238,7 @@
 			"description": "Operation Demon Veil is the 1st season of the 7th year of Rainbow Six Siege. [Event: Rengoku v1]\r\nMain additions:\r\n- Japanese operator Azami\r\n- New map Emerald Plains\r\n- Deathmatch mode\r\n- Attacker repick\r\n- Universal 1x sights\r\n- Goyo rework"
 		},
 		"vectorglare": {
-			"name": "Y1S1_BlackIce",
+			"name": "Y7S2_VectorGlare",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%207/vectorglare.jpg",
 			"md5": "ba5f28de85239eaa2f75513c612921fd",
 			"manifestWW": "1363132201391540345",
@@ -247,7 +247,7 @@
 			"description": "Operation Vector Glare is the 2nd season of the 7th year of Rainbow Six Siege. [Event: Mute Protocol v2]\r\nMain additions:\r\n- Belgian operator Sens\r\n- New TDM map Close Quarter\r\n- Shooting Range\r\n- Operator Guides\r\n- Screen Shake intensity option\r\n- Third secondary weapon slot"
 		},
 		"brutalswarm": {
-			"name": "Y1S1_BlackIce",
+			"name": "Y7S3_BrutalSwarm",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%207/brutalswarm.jpg",
 			"md5": "5e85ede2b3019faefe4eace86becdd40",
 			"manifestWW": "6425223567680952075",
@@ -256,7 +256,7 @@
 			"description": "Operation Brutal Swarm is the 3rd season of the 7th year of Rainbow Six Siege. [Event: Doktor Curse v3]\r\nMain additions:\r\n- singaporean operator Grim\r\n- New map Stadium Bravo\r\n- Impact EMPs secondary gadget\r\n- Weapon recoil rework"
 		},
 		"solarraid": {
-			"name": "Y1S1_BlackIce",
+			"name": "Y7S4_SolarRaid",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%207/solarraid.jpg",
 			"md5": "db4ed30a3628dfef67adbc75b6a04b36",
 			"manifestWW": "4466027729495813039",
@@ -267,7 +267,7 @@
 	}],
 	"Year 8": [{
 		"commandingforce": {
-			"name": "Y1S1_BlackIce",
+			"name": "Y8S1_CommandingForce",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%208/commandingforce.jpg",
 			"md5": "6286b27d220dbfee1485ce1f52acfa6c",
 			"manifestWW": "3275824905781062648",
@@ -276,7 +276,7 @@
 			"description": "Operation Commanding Force is the 1st season of the 8th year of Rainbow Six Siege. [Event: Rainbow is Magic v3]\r\nMain additions:\r\n- Brazilian operator Brava\r\n- Reload rework\r\n- Zero rework\r\n- Updated main menu"
 		},
 		"dreadfactor": {
-			"name": "Y1S1_BlackIce",
+			"name": "Y8S2_DreadFactor",
 			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%208/dreadfactor.jpg",
 			"md5": "e454e842a0215f45840c9f2dbf3b9b22",
 			"manifestWW": "3050554908913191669",
