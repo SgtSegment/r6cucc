@@ -1,4 +1,16 @@
 {
+	"Year 0": [{
+		"vanilla": {
+			"name": "Y1S0_Vanilla",
+			"nameShort": "vanilla",
+			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%200/vanilla.jpg",
+			"md5": "a35294774880e6ac78ea670ae8c19b37",
+			"manifestWW": "8358812283631269928",
+			"manifestContent": "3893422760579204530",
+			"manifest4K": "8394183851197739981",
+			"description": "Siege Vanilla Release"
+		}
+	}],
 	"Year 1": [{
 		"blackice": {
 			"name": "Y1S1_BlackIce",
