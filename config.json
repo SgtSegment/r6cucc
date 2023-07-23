@@ -3,5 +3,6 @@
 	"ingame": "",
 	"userId": "",
 	"folder": "",
-	"maxDownloads": "10"
+	"maxDownloads": "10",
+  	"rus": false
 }
