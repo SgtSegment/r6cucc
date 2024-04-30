@@ -412,5 +412,19 @@
 			"manifest4K": "7317912690472443034",
 			"description": "Y8S4"
 		}
+	}],
+	"Year 8": [{
+		"commandingforce": {
+			"name": "Y9S1_DeadlyOmen",
+			"nameShort": "deadlyomen",
+			"crackType": "3",
+			"link": "https://raw.githubusercontent.com/AKrisz2/r6cucc/main/Year%209/deadlyomen.jpg",
+			"md5": "",
+			"manifestWW": "1959067516419454682",
+			"manifestRus": "1619182300337183882",
+			"manifestContent": "1140469899661941149",
+			"manifest4K": "7765579480993106151",
+			"description": "Y9S1"
+		}
 	}]
 }
