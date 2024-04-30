@@ -414,7 +414,7 @@
 		}
 	}],
 	"Year 9": [{
-		"commandingforce": {
+		"deadlyomen": {
 			"name": "Y9S1_DeadlyOmen",
 			"nameShort": "deadlyomen",
 			"crackType": "3",
